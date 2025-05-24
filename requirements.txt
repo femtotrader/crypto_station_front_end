@@ -11,4 +11,4 @@ optuna==4.2.0
 boto3==1.36.21
 
 psycopg2-binary==2.9.10
-ta-lib==0.6.1
+ta-lib==0.6.3
