@@ -2,7 +2,7 @@ python-dotenv==1.1.0
 ccxt==4.4.57
 pandas==2.2.3
 pandas-ta==0.3.14b
-sqlalchemy==2.0.37
+sqlalchemy==2.0.41
 yfinance==0.2.52
 tenacity==9.0.0
 scikit-learn==1.6.1
